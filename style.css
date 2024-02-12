@@ -1,0 +1,16 @@
+*{
+    color:blue;
+}
+button{
+    color:brown;
+}
+
+#headingOne{
+    color:yellow;
+}
+#headingTwo{
+    color: chocolate;
+}
+.myClass{
+    color: magenta;
+}
